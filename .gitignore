@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.rar
+.idea/
+*.iml
+out/
+bin/
+.DS_Store
+Thumbs.db
